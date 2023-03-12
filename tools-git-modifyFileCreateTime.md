@@ -8,3 +8,4 @@ note: installing Xcode command line tools before using setfile command in termin
 
 ## In order to change the github commitment time, try to use below command.
 `GIT_COMMITTER_DATE="Jul 14 09:22:12 2022" git commit --date="Jul 14 09:22:12" -am "js modified"`
+、
