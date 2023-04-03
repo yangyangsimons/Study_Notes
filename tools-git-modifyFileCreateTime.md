@@ -5,3 +5,6 @@
 2. `setfile -m 'mm/dd/yy hh:mm:ss' filename` can change the modify date.
 
 note: installing Xcode command line tools before using setfile command in terminal.
+
+## In order to change the github commitment time, try to use below command.
+`GIT_COMMITTER_DATE="Jul 14 09:22:12 2022" git commit --date="Jul 14 09:22:12" -am "js modified"`
